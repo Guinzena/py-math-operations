@@ -5,7 +5,7 @@ grade1 = float(input('Now enter the 1st grade: '))
 grade2 = float(input('And now 2nd grade: '))
 # Faz o cálculo da média
 average = (grade1 + grade2) / 2
-# Utilizando o \033 para alterar as coresdo terminal
+# Utilizando o \033 para alterar as cores do terminal
 print('\033[32mBulletin of {}\033[m \n'
       '1st Test: \033[32m{}\033[m \n'
       '2nd Test: \033[32m{}\033[m \n'
